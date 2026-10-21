@@ -1,52 +1,34 @@
-# 🎮 CALLISCALLIS321
-
-### GAMING & TECHNOLOGY
+# CALLISCALLIS321 — Gaming & Technology
 
 **Level Up Your Gaming Experience.**
 
-![Brand Colors](https://img.shields.io/badge/BRAND-BLACK%20%7C%20RED%20%7C%20GRAY-EF233C?style=for-the-badge)
-![Industry](https://img.shields.io/badge/INDUSTRY-GAMING%20%26%20TECHNOLOGY-121212?style=for-the-badge)
-![Website](https://img.shields.io/badge/WEBSITE-COMING%20SOON-9CA3AF?style=for-the-badge)
+A responsive, multi-page gaming storefront demo designed for GitHub Pages.
 
----
+## Pages
+- `index.html` — homepage, collections, searchable product catalog, cart
+- `about.html` — brand story
+- `contact.html` — demo contact form (no messages sent)
+- `faq.html` — frequently asked questions
+- `shipping.html` — shipping and returns notice
+- `privacy.html` — privacy notice
+- `terms.html` — terms of use
 
-## 🚀 Welcome to CALLISCALLIS321
+## Project files
+- `assets/css/style.css` — styling and responsive layouts
+- `assets/js/products.js` — editable sample product data
+- `assets/js/app.js` — filters, search, sorting, cart, interactions
 
-**CALLISCALLIS321** is a modern gaming and technology brand dedicated to delivering an exciting shopping experience for gamers, creators, and technology enthusiasts.
+## Deploy on GitHub Pages
+1. Extract the ZIP.
+2. Upload the **contents** of `CALLISCALLIS321_Gaming_Store` (including `index.html` and the `assets` directory) to the root of a GitHub repository.
+3. Open repository **Settings → Pages → Build and deployment**.
+4. Select **Deploy from a branch**, `main`, `/ (root)`, then Save.
+5. Wait for the GitHub Pages URL to become available.
 
-From high-performance gaming PCs and consoles to precision peripherals and essential accessories, our goal is to bring together the gear that powers every gaming setup.
+## Customize
+Edit `assets/js/products.js` to replace demo product names, categories, descriptions, USD prices and image URLs.
 
-**Built for gamers. Inspired by performance. Driven by innovation.**
+## Important limitations
+This is a **demonstration storefront**, not a live e-commerce service. Product photos are illustrative and may not match their product labels. All products and prices are examples. Cart selections are saved only in browser localStorage; no orders or payments can be made. The contact form does not send messages. Images from Unsplash and fonts from Google Fonts require internet connectivity. Review legal pages and implement a secure commerce backend before accepting orders.
 
----
-
-## 🛒 Our Gaming Collections
-
-| Category | Description |
-|---|---|
-| 🖥️ Gaming PCs | Gaming desktops and performance-focused computer setups |
-| 🎮 Gaming Consoles | Console gaming systems and related accessories |
-| ⌨️ Gaming Keyboards | Mechanical and RGB gaming keyboards |
-| 🖱️ Gaming Mice | Precision gaming mice for competitive play |
-| 🎧 Gaming Headsets | Immersive audio and communication accessories |
-| 🪑 Gaming Chairs | Ergonomic seating for gaming setups |
-| 💡 RGB Accessories | Lighting and accessories for custom setups |
-| 🖥️ Gaming Monitors | High-refresh-rate displays and gaming screens |
-
----
-
-## 🔥 Why CALLISCALLIS321?
-
-- **Gaming-Focused Selection** — Products and accessories selected with gamers in mind.
-- **Modern Technology** — A focus on performance, design, and innovation.
-- **Premium Presentation** — A polished shopping experience.
-- **Setup Essentials** — Everything needed to build a personalized gaming station.
-- **Community First** — A brand inspired by gaming culture and creativity.
-
----
-
-## 🎯 Our Mission
-
-To make gaming technology more accessible, exciting, and enjoyable through a modern online shopping experience and a carefully presented selection of gaming essentials.
-
-##
+© 2026 CALLISCALLIS321.
