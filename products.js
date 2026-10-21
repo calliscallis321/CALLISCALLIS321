@@ -1,98 +1,98 @@
-window.GAMING_PRODUCTS = [
+window.CALLIS_PRODUCTS = [
   {
     "id": 1,
-    "name": "Apex RTX Gaming Desktop",
+    "name": "Apex RTX Gaming Tower",
     "category": "PCs",
     "price": 1899,
-    "image": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?w=900&q=85",
-    "description": "High-performance desktop for demanding games."
+    "description": "High-performance desktop · 32GB RAM · RGB cooling",
+    "image": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 2,
-    "name": "Phantom RGB Tower",
-    "category": "PCs",
-    "price": 1299,
-    "image": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=900&q=85",
-    "description": "RGB-ready desktop with powerful cooling."
+    "name": "Vortex Pro Mechanical Keyboard",
+    "category": "Peripherals",
+    "price": 129,
+    "description": "Precision mechanical switches · dynamic RGB",
+    "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 3,
-    "name": "Velocity Mechanical Keyboard",
-    "category": "Keyboards",
-    "price": 129,
-    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=900&q=85",
-    "description": "Tactile mechanical switches and vibrant lighting."
+    "name": "Phantom Wireless Gaming Mouse",
+    "category": "Peripherals",
+    "price": 79,
+    "description": "Lightweight ergonomic shell · precision sensor",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 4,
-    "name": "Strike Pro Gaming Mouse",
-    "category": "Mice",
-    "price": 79,
-    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=900&q=85",
-    "description": "Precision tracking with lightweight control."
+    "name": "Nova Studio Gaming Headset",
+    "category": "Audio",
+    "price": 149,
+    "description": "Immersive surround sound · detachable microphone",
+    "image": "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 5,
-    "name": "Immersion Wireless Headset",
-    "category": "Audio",
-    "price": 159,
-    "image": "https://images.unsplash.com/photo-1599669454699-248893623440?w=900&q=85",
-    "description": "Comfortable headset with immersive sound."
+    "name": "Titan 27” Gaming Display",
+    "category": "Monitors",
+    "price": 329,
+    "description": "Fast-refresh display · immersive viewing",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 6,
-    "name": "UltraWide Gaming Display",
-    "category": "Monitors",
-    "price": 449,
-    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=900&q=85",
-    "description": "Expansive display for immersive gaming."
+    "name": "Pulse RGB Desk Setup",
+    "category": "Accessories",
+    "price": 89,
+    "description": "Ambient lighting for a signature gaming space",
+    "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 7,
-    "name": "Nova Controller",
-    "category": "Controllers",
+    "name": "Stealth Console Controller",
+    "category": "Consoles",
     "price": 69,
-    "image": "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?w=900&q=85",
-    "description": "Responsive controls for every session."
+    "description": "Comfortable grips · responsive controls",
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 8,
-    "name": "Streamer Studio Microphone",
-    "category": "Audio",
-    "price": 119,
-    "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=900&q=85",
-    "description": "Clear voice capture for streams and chats."
+    "name": "Velocity Gaming Chair",
+    "category": "Accessories",
+    "price": 299,
+    "description": "Supportive design for long sessions",
+    "image": "https://images.unsplash.com/photo-1598300053653-c2e3f4f9c79a?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 9,
-    "name": "Carbon Gaming Chair",
-    "category": "Accessories",
-    "price": 329,
-    "image": "https://images.unsplash.com/photo-1598300053653-4c48bb90c8a3?w=900&q=85",
-    "description": "Ergonomic seating for extended sessions."
+    "name": "Core Gaming Laptop",
+    "category": "PCs",
+    "price": 1499,
+    "description": "Portable performance · sharp display",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 10,
-    "name": "RGB Desk Light Bars",
-    "category": "Accessories",
-    "price": 89,
-    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=900&q=85",
-    "description": "Ambient light for the ultimate setup."
+    "name": "Orbit Stream Microphone",
+    "category": "Audio",
+    "price": 119,
+    "description": "Clean voice capture for streaming",
+    "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 11,
-    "name": "Stealth Console Station",
-    "category": "Consoles",
-    "price": 499,
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=900&q=85",
-    "description": "Next-level console-inspired gaming."
+    "name": "Edge RGB Mousepad",
+    "category": "Accessories",
+    "price": 39,
+    "description": "Extended desktop surface · ambient RGB",
+    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 12,
-    "name": "Control XL Desk Mat",
-    "category": "Accessories",
-    "price": 39,
-    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?w=900&q=85",
-    "description": "Oversized desk mat with smooth tracking."
+    "name": "Eclipse Console Bundle",
+    "category": "Consoles",
+    "price": 549,
+    "description": "Console-ready gaming experience",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=900&q=85"
   }
 ];

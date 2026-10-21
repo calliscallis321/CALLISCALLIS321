@@ -1,34 +1,34 @@
-# CALLISCALLIS321 — Gaming & Technology
+# CALLISCALLIS321 — V2 Gaming Store
 
 **Level Up Your Gaming Experience.**
 
-A responsive, multi-page gaming storefront demo designed for GitHub Pages.
+A responsive, multi-page gaming storefront demo in English, styled with black, red, and gray.
 
 ## Pages
-- `index.html` — homepage, collections, searchable product catalog, cart
-- `about.html` — brand story
-- `contact.html` — demo contact form (no messages sent)
-- `faq.html` — frequently asked questions
-- `shipping.html` — shipping and returns notice
-- `privacy.html` — privacy notice
-- `terms.html` — terms of use
+- `index.html` — Editorial homepage and featured product catalog
+- `shop.html` — Full searchable, filterable product catalog
+- `about.html` — Brand story
+- `contact.html` — Demo contact form (does not send messages)
+- `faq.html`, `shipping.html`, `privacy.html`, `terms.html` — Information and demo policies
 
-## Project files
-- `assets/css/style.css` — styling and responsive layouts
-- `assets/js/products.js` — editable sample product data
-- `assets/js/app.js` — filters, search, sorting, cart, interactions
+## Assets
+- `assets/css/style.css` — Responsive styling
+- `assets/js/products.js` — Editable sample catalog
+- `assets/js/app.js` — Product filters, cart, UI interactions
 
-## Deploy on GitHub Pages
-1. Extract the ZIP.
-2. Upload the **contents** of `CALLISCALLIS321_Gaming_Store` (including `index.html` and the `assets` directory) to the root of a GitHub repository.
-3. Open repository **Settings → Pages → Build and deployment**.
-4. Select **Deploy from a branch**, `main`, `/ (root)`, then Save.
-5. Wait for the GitHub Pages URL to become available.
+## Deployment (GitHub Pages)
+1. Extract this ZIP.
+2. Upload the **contents** of the folder to the repository root, preserving the `assets` folder.
+3. Go to **Settings → Pages**, select **Deploy from a branch**, `main`, `/ (root)`.
+4. Save. The site will be accessible once GitHub Pages finishes deploying.
 
-## Customize
-Edit `assets/js/products.js` to replace demo product names, categories, descriptions, USD prices and image URLs.
-
-## Important limitations
-This is a **demonstration storefront**, not a live e-commerce service. Product photos are illustrative and may not match their product labels. All products and prices are examples. Cart selections are saved only in browser localStorage; no orders or payments can be made. The contact form does not send messages. Images from Unsplash and fonts from Google Fonts require internet connectivity. Review legal pages and implement a secure commerce backend before accepting orders.
+## Notes
+- This is a **demo**, not an operational e-commerce store. There is no backend, checkout, order processing or payment gateway.
+- Product names and USD prices are examples, not real offers or inventory.
+- Illustrative photographs are loaded from Unsplash and require internet access; images may not match product descriptions exactly.
+- Google Fonts also require internet.
+- Cart contents are saved only to the visitor's browser via `localStorage`.
+- Contact form does not send messages.
+- Legal and shipping pages are placeholder templates and must be reviewed/replaced before commercial use.
 
 © 2026 CALLISCALLIS321.
